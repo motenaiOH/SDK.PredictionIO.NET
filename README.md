@@ -1,6 +1,6 @@
-Sensible.PredictionIO.NET
+SDK.PredictionIO.NET
 =========================
-Sensible.PredictionIO.NET is an open source C# wrapper for the [PredictionIO]. If you are not already familiar 
+SDK.PredictionIO.NET is an open source C# wrapper for the [PredictionIO]. If you are not already familiar 
 with PredictionIO, it is an "open source machine learning server for software developers to create predictive features, such as personalization, recommendation and content discovery". It is an amazing machine learning software which stands on the shoulders of giants such as Apache Hadoop and Elasticsearch, and allows you to add features to your application such as:
 
 * predict user behaviors
@@ -8,9 +8,9 @@ with PredictionIO, it is an "open source machine learning server for software de
 * help users to discover interesting events, documents, apps and restaurants
 * provide impressive match-making services
 
-Sensible.PredictionIO.NET supports PredictionIO version 0.8. A branch for 0.7 is also available.
+SDK.PredictionIO.NET supports PredictionIO version 0.8. A branch for 0.7 is also available.
 
-This repo is maintained by Themos Piperakis from [Sensible].
+This repo is maintained by Themos Piperakis from [SDK].
 
 Quick start
 ----------
@@ -33,7 +33,7 @@ for (var i = 1; i <= 10; i++)
 
 In the code above, we need the eventUrl for the PredictionIO EventServer instance (e.g. http://127.0.0.1:7070) and the application key generated for the item recommendation engine.
 
-Since Sensible.PredictionIO.NET is based on [RestSharp], most requests are available as both synchronous or asynchronous calls. So, in
+Since SDK.PredictionIO.NET is based on [RestSharp], most requests are available as both synchronous or asynchronous calls. So, in
 order to call SetUser asynchronously, you would use SetUserAsync, which returns Task<string>.
 
 After our users are generated, we now need to add some items. Items have one or more item types, which in real life could represent a product category. In our example, "1" represents the item type.
@@ -109,6 +109,6 @@ Changelog
 
 
 [PredictionIO]:http://prediction.io
-[Sensible]:http://www.sensible.gr
+[SDK]:http://www.SDK.gr
 [RestSharp]:http://restsharp.org
 [Newtonsoft.Json]:http://james.newtonking.com/json
