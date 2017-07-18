@@ -8,9 +8,7 @@ with PredictionIO, it is an "open source machine learning server for software de
 * help users to discover interesting events, documents, apps and restaurants
 * provide impressive match-making services
 
-SDK.PredictionIO.NET supports PredictionIO version 0.8. A branch for 0.7 is also available.
-
-This repo is maintained by Leandro Motenai Ribeiro.
+SDK.PredictionIO.NET supports PredictionIO version 0.11.
 
 Quick start
 ----------
