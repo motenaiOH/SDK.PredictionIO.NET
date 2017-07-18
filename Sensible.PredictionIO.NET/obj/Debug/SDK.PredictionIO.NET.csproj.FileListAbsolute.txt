@@ -1,0 +1,14 @@
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\bin\Debug\Sensible.PredictionIO.NET.dll
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\bin\Debug\Sensible.PredictionIO.NET.pdb
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\bin\Debug\RestSharp.dll
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\bin\Debug\System.Data.dll
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\bin\Debug\System.dll
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\bin\Debug\System.Xml.dll
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\bin\Debug\System.Xml.Linq.dll
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\bin\Debug\RestSharp.xml
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\obj\Debug\SDK.PredictionIO.NET.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\obj\Debug\Sensible.PredictionIO.NET.dll
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\Sensible.PredictionIO.NET\obj\Debug\Sensible.PredictionIO.NET.pdb

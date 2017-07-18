@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sensible.PredictionIO.NET
+namespace SDK.PredictionIO.NET
 {
     public class DateTimeAdapter
     {

@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 using RestSharp;
 
-namespace Sensible.PredictionIO.NET.Clients
+namespace SDK.PredictionIO.NET.Clients
 {
     public abstract class BaseClient
     {

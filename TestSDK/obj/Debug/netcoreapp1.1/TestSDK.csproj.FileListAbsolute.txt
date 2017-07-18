@@ -1,0 +1,9 @@
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\TestSDK\bin\Debug\netcoreapp1.1\TestSDK.deps.json
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\TestSDK\bin\Debug\netcoreapp1.1\TestSDK.runtimeconfig.json
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\TestSDK\bin\Debug\netcoreapp1.1\TestSDK.runtimeconfig.dev.json
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\TestSDK\bin\Debug\netcoreapp1.1\TestSDK.dll
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\TestSDK\bin\Debug\netcoreapp1.1\TestSDK.pdb
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\TestSDK\obj\Debug\netcoreapp1.1\TestSDK.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\TestSDK\obj\Debug\netcoreapp1.1\TestSDK.AssemblyInfo.cs
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\TestSDK\obj\Debug\netcoreapp1.1\TestSDK.dll
+C:\Users\Danny\Documents\PROJETOS\SDK.PredictionIO.NET\TestSDK\obj\Debug\netcoreapp1.1\TestSDK.pdb

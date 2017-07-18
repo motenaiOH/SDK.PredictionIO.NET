@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sensible.PredictionIO.NET
+namespace SDK.PredictionIO.NET
 {
     public class Constants
     {
@@ -38,14 +38,24 @@ namespace Sensible.PredictionIO.NET
         public const string Event = "event";
         public const string ApplicationJsonContentType = "application/json";
 
+        public class Property
+        {
+            public const string Category = "category";
+            public const string Available = "available";
+            public const string Expires = "expires";
+            public const string Date = "date";
+            public const string Gender = "gender";
+        }
+
 
         public class Actions
         {
             public const string View = "view";
-            public const string Like = "like";
-            public const string Dislike = "dislike";
-            public const string Conversion = "conversion";
-            public const string Rate = "rate";
+            public const string Purchase = "list";
+            public const string List = "purchase";
+            public const string CategoryPreference = "category-preference";
+            public const string AddCart = "add-cart";
+            public const string RemoveCart = "remove-cart";
         }
     }
 }

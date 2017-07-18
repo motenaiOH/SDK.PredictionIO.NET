@@ -10,7 +10,7 @@ with PredictionIO, it is an "open source machine learning server for software de
 
 SDK.PredictionIO.NET supports PredictionIO version 0.8. A branch for 0.7 is also available.
 
-This repo is maintained by Themos Piperakis from [SDK].
+This repo is maintained by Leandro Motenai Ribeiro.
 
 Quick start
 ----------

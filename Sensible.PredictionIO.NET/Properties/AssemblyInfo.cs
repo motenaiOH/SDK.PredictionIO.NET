@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Sensible.PredictionIO.NET")]
+[assembly: AssemblyTitle("SDK.PredictionIO.NET")]
 [assembly: AssemblyDescription("C# wrapper for PredictionIO v0.8 API")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("www.sensible.gr")]
-[assembly: AssemblyProduct("Sensible.PredictionIO.NET")]
+[assembly: AssemblyProduct("SDK.PredictionIO.NET")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

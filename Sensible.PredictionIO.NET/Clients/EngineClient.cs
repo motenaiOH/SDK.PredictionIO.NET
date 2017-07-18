@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using RestSharp;
-using Sensible.PredictionIO.NET.Domain;
+using SDK.PredictionIO.NET.Domain;
 
-namespace Sensible.PredictionIO.NET.Clients
+namespace SDK.PredictionIO.NET.Clients
 {
     public class EngineClient : BaseClient
     {

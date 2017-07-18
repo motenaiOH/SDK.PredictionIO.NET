@@ -1,6 +1,6 @@
 ﻿using RestSharp.Deserializers;
 
-namespace Sensible.PredictionIO.NET.Clients
+namespace SDK.PredictionIO.NET.Clients
 {
     public class ItemRecommendation
     {
