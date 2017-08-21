@@ -37,17 +37,17 @@ namespace SDK.PredictionIO.NET.Clients
             {
                 foreach(Item item in itens)
                 {
-                    this.SetItem(item);
+                    this.UpdateItem(item, Constants.SetEvent);
                 }
             }
         }
 
-        public string SetItem(Item item)
+        public string UpdateItem(Item item, string @event)
         {
             String result = null;
             if (this.CheckServerStatus())
             {
-                Event request = item.ParseToEvent(this.AppId);
+                Event request = item.ParseToEvent(this.AppId, @event);
                 var body = request.ToString(Formatting.None);
                 var response = Execute(Constants.EventsResource, Method.POST, body);
 

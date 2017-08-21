@@ -43,17 +43,28 @@ namespace SDK.PredictionIO.NET
             public const string Category = "category";
             public const string Available = "available";
             public const string Expires = "expires";
+            public const string Create = "create";
             public const string Date = "date";
             public const string Gender = "gender";
+            public const string Color = "color";
+            public const string Provider = "provider";
+            public const string Brand = "brand";
+            public const string Price = "price";
+            public const string Stock = "stock";
+            public const string Active = "active";
+            public const string Name = "name";
+            public const string Keywords = "keywords";
         }
 
 
         public class Actions
         {
             public const string View = "view";
-            public const string Purchase = "list";
-            public const string List = "purchase";
+            public const string Purchase = "purchase";
+            public const string List = "list";
             public const string CategoryPreference = "category-preference";
+            public const string GenderPreference = "gender-preference";
+            public const string ColorPreference = "color-preference";
             public const string AddCart = "add-cart";
             public const string RemoveCart = "remove-cart";
         }

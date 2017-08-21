@@ -11,6 +11,7 @@ namespace Sensible.PredictionIO.NET.Domain
     public class Item
     {
         string itemId;
+        DateTime create;
         DateTime available;
         DateTime expires;
 
@@ -29,9 +30,9 @@ namespace Sensible.PredictionIO.NET.Domain
             this.properties.Add(propertie, value);
         }
 
-        public Event ParseToEvent(int appId)
+        public Event ParseToEvent(int appId, string @event)
         {
-            return new Event(appId, Constants.SetEvent, this.itemId, Constants.Item, null, null, this.properties, this.available, this.expires);
+            return new Event(appId, @event, this.itemId, Constants.Item, null, null, this.properties, this.available, this.expires);
         }
     }
 }
